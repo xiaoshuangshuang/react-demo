@@ -2,6 +2,7 @@ import React from 'react';
 
 function Demo2(props) {
     const { a, b, c, d, r, f, d, ...reset, } = props;
+    const mm = "abc"
     return (
         <div>
             <div>22311212</div>
