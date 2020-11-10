@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Demo2(props) {
-    const { a, b, c, d, r, f, m, g, y, ...reset, } = props;
+    const { a, b, c, d, r, f, m, g, y, ...reset,  } = props;
     const mm = "abc"
     return (
         <div>
