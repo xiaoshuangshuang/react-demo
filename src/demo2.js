@@ -1,6 +1,7 @@
 import React from 'react';
 
-function Demo2() {
+function Demo2(props) {
+    const { a } = props;
     return (
         <div>
             <div>我来测试一下
